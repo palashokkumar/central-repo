@@ -1,1 +1,2 @@
 create by loca1.repo1
+create by local.repo2
